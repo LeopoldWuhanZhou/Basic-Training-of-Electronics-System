@@ -2,7 +2,7 @@
 
 These are some labs of Basic Training of Electronics System, Peking University 2025 Spring.
 
-Thanks to my classmate, Beibei Deng, for great help.
+Thanks to Beibei Deng for great help.
 
 3: Introduction to Arduino
 
