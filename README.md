@@ -1,6 +1,6 @@
 # Basic Training of Electronics System
 
-These are some labs of Basic Training of Electronics System, Peking University 2025 Spring.
+These are some labs of Basic Training of Electronics System by Xiaoji Zhou, Peking University 2025 Spring.
 
 Thanks to [Beibei Deng](https://github.com/Aries-Deng) for great help.
 
